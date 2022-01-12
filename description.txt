@@ -1,0 +1,9 @@
+1. Run both angular and flask in different servers
+2.use ng serve for angular whilst use flask run for the python
+
+  #Create flask environment before installing requirements
+
+ installment of flask requirements
+nb: if requirements.txt is not already in python folder then run "pip freeze>requirements.txt"
+
+else run "pip install -r requirements.txt"
